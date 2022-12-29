@@ -1,0 +1,15 @@
+,6
+Classifier Name,Crenarchaeota_to_Genus
+Member Organisms,"['Pyrobaculum aerophilum str. IM2', 'Pyrobaculum arsenaticum DSM 13514', 'Pyrobaculum calidifontis JCM 11548', 'Pyrobaculum islandicum DSM 4184', 'Sulfolobus acidocaldarius DSM 639', 'Sulfolobus solfataricus P2', 'Sulfolobus tokodaii str. 7']"
+Classes to Learn,"['Pyrobaculum', 'Sulfolobus']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([19.17079252, 14.731695  , 19.4999699 , 15.29467303]), 'std_fit_time': array([0.67146948, 0.30726582, 0.74728888, 0.22577256]), 'mean_score_time': array([4.17484003, 5.2921226 , 4.20832175, 5.30094337]), 'std_score_time': array([0.3263648 , 0.30164256, 0.25589935, 0.35053818]), 'param_C': masked_array(data=[100000, 100000, 1000000, 1000000],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[10, 100, 10, 100],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 100000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 100, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 100, 'kernel': 'rbf'}], 'split0_test_score': array([0.99142127, 0.99229166, 0.99142127, 0.99229166]), 'split1_test_score': array([0.99179429, 0.99241613, 0.99179429, 0.99241613]), 'split2_test_score': array([0.99142121, 0.99204277, 0.99142121, 0.99204277]), 'split3_test_score': array([0.99216694, 0.9935348 , 0.99216694, 0.9935348 ]), 'mean_test_score': array([0.99170093, 0.99257134, 0.99170093, 0.99257134]), 'std_test_score': array([0.00030917, 0.00057227, 0.00030917, 0.00057227]), 'rank_test_score': array([3, 1, 3, 1], dtype=int32)}"

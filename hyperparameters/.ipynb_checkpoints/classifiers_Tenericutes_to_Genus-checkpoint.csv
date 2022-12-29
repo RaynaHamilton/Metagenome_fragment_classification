@@ -1,0 +1,25 @@
+,5
+Classifier Name,Tenericutes_to_Genus
+Member Organisms,"['Mycoplasma agalactiae PG2', 'Mycoplasma arthritidis 158L3-1', 'Mycoplasma capricolum subsp. capricolum ATCC 27343', 'Mycoplasma gallisepticum R', 'Mycoplasma genitalium G37', 'Mycoplasma hyopneumoniae 232', 'Mycoplasma hyopneumoniae 7448', 'Mycoplasma hyopneumoniae J', 'Mycoplasma mobile 163K', 'Mycoplasma mycoides subsp. mycoides SC str. PG1', 'Mycoplasma penetrans HF-2', 'Mycoplasma pneumoniae M129', 'Mycoplasma pulmonis UAB CTIP', 'Mycoplasma synoviae 53', 'Ureaplasma parvum serovar 3 str. ATCC 27815', 'Ureaplasma parvum serovar 3 str. ATCC 700970', 'Ureaplasma urealyticum serovar 10 str. ATCC 33699']"
+Classes to Learn,"['Mycoplasma', 'Ureaplasma']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([ 87.0756104 , 247.78621268, 257.94047368, 288.16331679,
+       749.16499847, 262.204768  ]), 'std_fit_time': array([ 0.92933669,  3.2717676 ,  6.17287961,  2.89978086, 20.05578622,
+        5.98508662]), 'mean_score_time': array([22.63096815, 19.51166224, 12.56760103, 21.41132373,  9.14714307,
+       12.63405329]), 'std_score_time': array([1.03867383, 1.11935349, 0.52472454, 1.2253054 , 0.08555505,
+       0.93781824]), 'param_C': masked_array(data=[10000, 10000, 10000, 100000, 100000, 100000],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[0.1, 1, 10, 0.1, 1, 10],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 10000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 10, 'kernel': 'rbf'}], 'split0_test_score': array([0.85776559, 0.8976444 , 0.94412633, 0.86847156, 0.92953902,
+       0.94526469]), 'split1_test_score': array([0.85317365, 0.89343815, 0.94557789, 0.86335148, 0.92930669,
+       0.94479429]), 'split2_test_score': array([0.85769843, 0.90021795, 0.94520812, 0.86946456, 0.92669172,
+       0.94640795]), 'split3_test_score': array([0.85852054, 0.8952697 , 0.94393571, 0.8662034 , 0.92811848,
+       0.94321403]), 'mean_test_score': array([0.85678955, 0.89664255, 0.94471202, 0.86687275, 0.92841398,
+       0.94492024]), 'std_test_score': array([0.00211245, 0.00254657, 0.0006967 , 0.00235165, 0.00113094,
+       0.00114662]), 'rank_test_score': array([6, 4, 2, 5, 3, 1], dtype=int32)}"

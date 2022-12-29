@@ -1,0 +1,26 @@
+Organism Name,Genus,Phylum,Domain,Filename,Accession,Genome Size (Mb),G+C Content
+Leptospira kirschneri,Leptospira,Spirochaetes,Bacteria,unknown_frequencies/Leptospira_kirschneri_freqs.csv,LSSQ01000001.1,4.414224,36.04515765398403
+Leptospira santarosai,Leptospira,Spirochaetes,Bacteria,unknown_frequencies/Leptospira_santarosai_freqs.csv,APGN01000001.1,3.835045,41.79421623475083
+Leptospira weilii,Leptospira,Spirochaetes,Bacteria,unknown_frequencies/Leptospira_weilii_freqs.csv,AFLV02000084.1,4.370034,40.864212955780204
+Treponema pedis,Treponema,Spirochaetes,Bacteria,unknown_frequencies/Treponema_pedis_freqs.csv,CP061839.1,3.077465,36.83635719658875
+Treponema vincentii,Treponema,Spirochaetes,Bacteria,unknown_frequencies/Treponema_vincentii_freqs.csv,CP051197.1,2.594485,45.67657935968025
+Treponema primitia,Treponema,Spirochaetes,Bacteria,unknown_frequencies/Treponema_primitia_freqs.csv,CP001843.1,4.059867,50.837527436243604
+Borrelia parkeri,Borrelia,Spirochaetes,Bacteria,unknown_frequencies/Borrelia_parkeri_freqs.csv,CP007022.1,1.030684,28.8820821900796
+Borrelia anserina,Borrelia,Spirochaetes,Bacteria,unknown_frequencies/Borrelia_anserina_freqs.csv,CP013704.1,1.04269,29.367693178221714
+Borrelia miyamotoi,Borrelia,Spirochaetes,Bacteria,unknown_frequencies/Borrelia_miyamotoi_freqs.csv,CP010308.1,0.907293,28.718947462396383
+Methanococcus voltae,Methanococcus,Euryarchaeota,Archaea,unknown_frequencies/Methanococcus_voltae_freqs.csv,JANUCR010000001.1,1.857959,28.519305323745037
+Methanosarcina siciliae,Methanosarcina,Euryarchaeota,Archaea,unknown_frequencies/Methanosarcina_siciliae_freqs.csv,CP009506.1,5.017558,42.94041045464746
+Methanosarcina thermophila,Methanosarcina,Euryarchaeota,Archaea,unknown_frequencies/Methanosarcina_thermophila_freqs.csv,FPAO01000001.1,3.100602,41.27053391567186
+Methanosarcina horonobensis,Methanosarcina,Euryarchaeota,Archaea,unknown_frequencies/Methanosarcina_horonobensis_freqs.csv,CP009516.1,5.018607,41.311045076851
+Pyrococcus yayanosii,Pyrococcus,Euryarchaeota,Archaea,unknown_frequencies/Pyrococcus_yayanosii_freqs.csv,CP002779.1,1.716818,51.63750613052752
+Pyrococcus kukulkanii,Pyrococcus,Euryarchaeota,Archaea,unknown_frequencies/Pyrococcus_kukulkanii_freqs.csv,CP010835.1,1.977126,44.62209287622539
+Mycoplasma leachii,Mycoplasma,Tenericutes,Bacteria,unknown_frequencies/Mycoplasma_leachii_freqs.csv,CP002108.1,1.008951,23.750509192220434
+Mycoplasma yeatsii,Mycoplasma,Tenericutes,Bacteria,unknown_frequencies/Mycoplasma_yeatsii_freqs.csv,CP007520.1,0.895051,25.735628472567484
+Mycoplasma putrefaciens,Mycoplasma,Tenericutes,Bacteria,unknown_frequencies/Mycoplasma_putrefaciens_freqs.csv,CP004357.1,0.859996,26.961753310480514
+Ureaplasma diversum,Ureaplasma,Tenericutes,Bacteria,unknown_frequencies/Ureaplasma_diversum_freqs.csv,JFDP01000001.1,1.011202,28.08598084260118
+Ureaplasma canigenitalium,Ureaplasma,Tenericutes,Bacteria,unknown_frequencies/Ureaplasma_canigenitalium_freqs.csv,KL544010.1,0.835388,31.854419742682445
+Ureaplasma miroungigenitalium,Ureaplasma,Tenericutes,Bacteria,unknown_frequencies/Ureaplasma_miroungigenitalium_freqs.csv,JAOXHL010000009.1,0.728586,31.39450936471467
+Pyrobaculum oguniense,Pyrobaculum,Crenarchaeota,Archaea,unknown_frequencies/Pyrobaculum_oguniense_freqs.csv,CP003316.1,2.45292,55.051000440291574
+Pyrobaculum neutrophilum,Pyrobaculum,Crenarchaeota,Archaea,unknown_frequencies/Pyrobaculum_neutrophilum_freqs.csv,CP001014.1,1.769823,59.910623830744655
+Pyrobaculum ferrireducens,Pyrobaculum,Crenarchaeota,Archaea,unknown_frequencies/Pyrobaculum_ferrireducens_freqs.csv,CP003098.1,2.467972,56.96681323775148
+Sulfolobus islandicus,Sulfolobus,Crenarchaeota,Archaea,unknown_frequencies/Sulfolobus_islandicus_freqs.csv,CP002426.1,2.655201,35.14818652147238

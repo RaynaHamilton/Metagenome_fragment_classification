@@ -1,0 +1,27 @@
+,4
+Unnamed: 0,4
+Classifier Name,Euryarchaeota_to_Genus
+Member Organisms,"['Candidatus Methanoregula boonei 6A8', 'Methanococcus aeolicus Nankai-3', 'Methanococcus maripaludis C5', 'Methanococcus maripaludis C6', 'Methanococcus maripaludis C7', 'Methanococcus maripaludis S2', 'Methanococcus vannielii SB', 'Methanosarcina acetivorans C2A', 'Methanosarcina barkeri str. Fusaro', 'Methanosarcina mazei Go1', 'Pyrococcus abyssi GE5', 'Pyrococcus furiosus DSM 3638', 'Pyrococcus horikoshii OT3']"
+Classes to Learn,"['Candidatus', 'Methanococcus', 'Methanosarcina', 'Pyrococcus']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([ 280.94490701,  733.71458805,  710.64777768,  824.90248203,
+       1401.82405967,  704.01219577]), 'std_fit_time': array([ 1.57060848,  6.51394373,  4.20886204, 10.31094612,  7.13440398,
+        6.92234066]), 'mean_score_time': array([100.46532935, 106.1823324 , 107.68633413, 110.01699066,
+       177.94375712,  98.50497031]), 'std_score_time': array([1.44241396, 2.86799946, 2.91888037, 2.3017885 , 4.60221864,
+       9.45918949]), 'param_C': masked_array(data=[10000, 10000, 10000, 100000, 100000, 100000],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[0.1, 1, 10, 0.1, 1, 10],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 10000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 10, 'kernel': 'rbf'}], 'split0_test_score': array([0.93034763, 0.94347939, 0.96873612, 0.93191581, 0.9368646 ,
+       0.9696965 ]), 'split1_test_score': array([0.92417246, 0.94070064, 0.9688413 , 0.92668046, 0.8880423 ,
+       0.96830311]), 'split2_test_score': array([0.92536185, 0.9415716 , 0.96686143, 0.92637938, 0.91895956,
+       0.96665328]), 'split3_test_score': array([0.92880928, 0.94225202, 0.97008724, 0.93105521, 0.93709136,
+       0.97080426]), 'mean_test_score': array([0.9271728 , 0.94200091, 0.96863152, 0.92900771, 0.92023945,
+       0.96886429]), 'std_test_score': array([0.00250196, 0.00101538, 0.00115188, 0.00249867, 0.01999173,
+       0.00155399]), 'rank_test_score': array([5, 3, 2, 4, 6, 1], dtype=int32)}"
+Chosen columns,

@@ -1,0 +1,31 @@
+,6
+Unnamed: 0,6
+Classifier Name,Crenarchaeota_to_Genus
+Member Organisms,"['Pyrobaculum aerophilum str. IM2', 'Pyrobaculum arsenaticum DSM 13514', 'Pyrobaculum calidifontis JCM 11548', 'Pyrobaculum islandicum DSM 4184', 'Sulfolobus acidocaldarius DSM 639', 'Sulfolobus solfataricus P2', 'Sulfolobus tokodaii str. 7']"
+Classes to Learn,"['Pyrobaculum', 'Sulfolobus']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([ 9.12110049, 16.44027597, 16.97017181, 15.40041363, 34.20552516,
+       14.59827155]), 'std_fit_time': array([0.22260653, 1.15292846, 1.25900573, 0.93910378, 3.7358751 ,
+       1.30296797]), 'mean_score_time': array([3.17176682, 2.51428241, 4.71510929, 2.35753328, 5.8795464 ,
+       3.08025372]), 'std_score_time': array([0.098538  , 0.11633767, 0.70397945, 0.14657267, 0.71189392,
+       0.69598759]), 'param_C': masked_array(data=[10000, 10000, 10000, 100000, 100000, 100000],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[0.1, 1, 10, 0.1, 1, 10],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 10000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 10, 'kernel': 'rbf'}], 'split0_test_score': array([0.99291328, 0.99303736, 0.99241567, 0.99254003, 0.99328603,
+       0.99241567]), 'split1_test_score': array([0.9899302 , 0.99005455, 0.99179458, 0.98856273, 0.99005431,
+       0.99179458]), 'split2_test_score': array([0.99030234, 0.98992961, 0.99079973, 0.98918342, 0.990551  ,
+       0.99079973]), 'split3_test_score': array([0.9927887 , 0.99241555, 0.99316156, 0.99204244, 0.99154516,
+       0.99316156]), 'mean_test_score': array([0.99148363, 0.99135927, 0.99204289, 0.99058216, 0.99135913,
+       0.99204289]), 'std_test_score': array([0.00137438, 0.00138545, 0.00086566, 0.00173207, 0.00123523,
+       0.00086566]), 'rank_test_score': array([3, 4, 1, 6, 5, 1], dtype=int32)}"
+Chosen columns,"['AAAT' 'AATA' 'AATT' 'AATG' 'ATAA' 'ATAT' 'ATTA' 'ATTT' 'ATTC' 'AGGC'
+ 'AGCC' 'ACGC' 'TAAA' 'TAAT' 'TATA' 'TATT' 'TTAA' 'TTAT' 'TTTA' 'TGGC'
+ 'TCGC' 'GAAT' 'GACG' 'GTCG' 'GGGG' 'GGGC' 'GGCG' 'GGCC' 'GCGA' 'GCGT'
+ 'GCGG' 'GCGC' 'GCCA' 'GCCT' 'GCCG' 'GCCC' 'CACG' 'CTCG' 'CGAG' 'CGAC'
+ 'CGTG' 'CGTC' 'CGGG' 'CGGC' 'CGCG' 'CGCC' 'CCGG' 'CCGC' 'CCCG' 'CCCC']"

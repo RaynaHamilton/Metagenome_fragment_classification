@@ -1,0 +1,15 @@
+,4
+Classifier Name,Euryarchaeota_to_Genus
+Member Organisms,"['Candidatus Methanoregula boonei 6A8', 'Methanococcus aeolicus Nankai-3', 'Methanococcus maripaludis C5', 'Methanococcus maripaludis C6', 'Methanococcus maripaludis C7', 'Methanococcus maripaludis S2', 'Methanococcus vannielii SB', 'Methanosarcina acetivorans C2A', 'Methanosarcina barkeri str. Fusaro', 'Methanosarcina mazei Go1', 'Pyrococcus abyssi GE5', 'Pyrococcus furiosus DSM 3638', 'Pyrococcus horikoshii OT3']"
+Classes to Learn,"['Candidatus', 'Methanococcus', 'Methanosarcina', 'Pyrococcus']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([931.20703894, 572.11759937, 928.07342547, 556.18377149]), 'std_fit_time': array([ 3.67850947,  5.50409916, 11.6056814 ,  4.95463931]), 'mean_score_time': array([ 97.57284439, 103.44296843,  93.07156956, 103.06752163]), 'std_score_time': array([1.07559046, 2.89496728, 4.72469606, 1.16716272]), 'param_C': masked_array(data=[100000, 100000, 1000000, 1000000],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[10, 100, 10, 100],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 100000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 100, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 100, 'kernel': 'rbf'}], 'split0_test_score': array([0.97143255, 0.97349683, 0.97143255, 0.97349683]), 'split1_test_score': array([0.96914287, 0.97122192, 0.96914287, 0.97122192]), 'split2_test_score': array([0.96943548, 0.97195773, 0.96943548, 0.97195773]), 'split3_test_score': array([0.97131099, 0.97391407, 0.97131099, 0.97391407]), 'mean_test_score': array([0.97033047, 0.97264764, 0.97033047, 0.97264764]), 'std_test_score': array([0.00104731, 0.00109928, 0.00104731, 0.00109928]), 'rank_test_score': array([3, 1, 3, 1], dtype=int32)}"

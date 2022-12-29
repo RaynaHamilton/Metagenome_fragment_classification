@@ -1,0 +1,15 @@
+,2
+Classifier Name,Archaea_to_Phylum
+Member Organisms,"['Candidatus Methanoregula boonei 6A8', 'Methanococcus aeolicus Nankai-3', 'Methanococcus maripaludis C5', 'Methanococcus maripaludis C6', 'Methanococcus maripaludis C7', 'Methanococcus maripaludis S2', 'Methanococcus vannielii SB', 'Methanosarcina acetivorans C2A', 'Methanosarcina barkeri str. Fusaro', 'Methanosarcina mazei Go1', 'Pyrobaculum aerophilum str. IM2', 'Pyrobaculum arsenaticum DSM 13514', 'Pyrobaculum calidifontis JCM 11548', 'Pyrobaculum islandicum DSM 4184', 'Pyrococcus abyssi GE5', 'Pyrococcus furiosus DSM 3638', 'Pyrococcus horikoshii OT3', 'Sulfolobus acidocaldarius DSM 639', 'Sulfolobus solfataricus P2', 'Sulfolobus tokodaii str. 7']"
+Classes to Learn,"['Euryarchaeota', 'Crenarchaeota']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([6286.15369982, 1991.85322016, 6262.74460334, 1990.7034201 ]), 'std_fit_time': array([94.51544461, 24.16599057, 61.78394418, 21.2146988 ]), 'mean_score_time': array([167.5819034 , 132.29258162, 145.30635113, 107.68944168]), 'std_score_time': array([ 4.69066451,  2.20642179, 21.90258137, 15.23748209]), 'param_C': masked_array(data=[100000, 100000, 1000000, 1000000],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[10, 100, 10, 100],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 100000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 100, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 100, 'kernel': 'rbf'}], 'split0_test_score': array([0.96730499, 0.97172632, 0.96730499, 0.97172632]), 'split1_test_score': array([0.96602753, 0.97025699, 0.96602753, 0.97025699]), 'split2_test_score': array([0.96696089, 0.97211857, 0.96696089, 0.97211857]), 'split3_test_score': array([0.96763965, 0.97258431, 0.96763965, 0.97258431]), 'mean_test_score': array([0.96698326, 0.97167155, 0.96698326, 0.97167155]), 'std_test_score': array([0.00060172, 0.00087134, 0.00060172, 0.00087134]), 'rank_test_score': array([3, 1, 3, 1], dtype=int32)}"

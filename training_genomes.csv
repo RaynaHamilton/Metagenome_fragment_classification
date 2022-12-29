@@ -1,0 +1,53 @@
+Organism Name,Domain,Phylum,Genome Size (Mb),G+C Content,Accession
+Borrelia afzelii PKo,Bacteria,Spirochaetes,1.404288,27.901683985051502,CP002933.1
+Borrelia burgdorferi B31,Bacteria,Spirochaetes,1.521208,28.179709809572394,AE000783.1
+Borrelia duttonii Ly,Bacteria,Spirochaetes,1.574881,28.011576747703476,CP000976.1
+Borrelia garinii PBi,Bacteria,Spirochaetes,0.986914,28.12696952318034,CP000013.1
+Borrelia hermsii DAH,Bacteria,Spirochaetes,1.498568,30.25354872117915,CP073136.1
+Borrelia recurrentis A1,Bacteria,Spirochaetes,1.242163,27.525534088521393,CP000993.1
+Borrelia turicatae 91E135,Bacteria,Spirochaetes,1.564967,29.38189750965995,CP073176.1
+Leptospira biflexa serovar Patoc strain Patoc 1 (Ames),Bacteria,Spirochaetes,3.956089,38.89164273099013,CP000777.1
+Leptospira biflexa serovar Patoc strain Patoc 1 (Paris),Bacteria,Spirochaetes,3.951448,38.89465330177697,CP000786.1
+Leptospira borgpetersenii serovar Hardjo-bovis JB197,Bacteria,Spirochaetes,3.876235,40.244025452533194,CP000350.1
+Leptospira borgpetersenii serovar Hardjo-bovis L550,Bacteria,Spirochaetes,3.931782,40.22911239738114,CP000348.1
+Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130,Bacteria,Spirochaetes,4.627366,35.04434272110743,AE016823.1
+Leptospira interrogans serovar Lai str. 56601,Bacteria,Spirochaetes,4.698134,35.02492691779332,AE010300.2
+Methanococcus aeolicus Nankai-3,Archaea,Euryarchaeota,1.5695,30.03746416056069,CP000743.1
+Methanococcus maripaludis C5,Archaea,Euryarchaeota,1.789046,32.9759547826048,CP000609.1
+Methanococcus maripaludis C6,Archaea,Euryarchaeota,1.789046,32.9759547826048,CP000609.1
+Methanococcus maripaludis C7,Archaea,Euryarchaeota,1.789046,32.9759547826048,CP000609.1
+Methanococcus maripaludis S2,Archaea,Euryarchaeota,1.661137,33.10034030907746,BX950229.1
+Methanococcus vannielii SB,Archaea,Euryarchaeota,1.720048,31.328311768043683,CP000742.1
+Methanosarcina acetivorans C2A,Archaea,Euryarchaeota,5.751492,42.680890454163894,AE010299.1
+Methanosarcina barkeri str. Fusaro,Archaea,Euryarchaeota,5.751492,42.680890454163894,AE010299.1
+Methanosarcina mazei Go1,Archaea,Euryarchaeota,4.096345,41.484909107997495,AE008384.1
+Mycoplasma agalactiae PG2,Bacteria,Tenericutes,0.877438,29.70705622505522,CU179680.1
+Mycoplasma arthritidis 158L3-1,Bacteria,Tenericutes,0.820453,30.70949828935966,CP001047.1
+Mycoplasma capricolum subsp. capricolum ATCC 27343,Bacteria,Tenericutes,1.010023,23.770448791760188,CP000123.1
+Mycoplasma gallisepticum R,Bacteria,Tenericutes,1.0128,31.469885466034754,AE015450.2
+Mycoplasma genitalium G37,Bacteria,Tenericutes,0.580076,31.689123494162835,L43967.2
+Mycoplasma hyopneumoniae 232,Bacteria,Tenericutes,0.892758,28.561155430699024,AE017332.1
+Mycoplasma hyopneumoniae 7448,Bacteria,Tenericutes,0.920079,28.4888580219742,AE017244.1
+Mycoplasma hyopneumoniae J,Bacteria,Tenericutes,0.897405,28.522239122804084,AE017243.1
+Mycoplasma mobile 163K,Bacteria,Tenericutes,0.777079,24.951259781823985,AE017308.1
+Mycoplasma mycoides subsp. mycoides SC str. PG1,Bacteria,Tenericutes,1.211703,23.965608734153502,BX293980.2
+Mycoplasma penetrans HF-2,Bacteria,Tenericutes,1.358633,25.717541087254613,BA000026.2
+Mycoplasma pneumoniae M129,Bacteria,Tenericutes,0.816394,40.008010837904244,U00089.2
+Mycoplasma pulmonis UAB CTIP,Bacteria,Tenericutes,0.963879,26.6365384036793,AL445566.1
+Mycoplasma synoviae 53,Bacteria,Tenericutes,0.799476,28.495164332637877,AE017245.1
+Pyrobaculum aerophilum str. IM2,Archaea,Crenarchaeota,2.22243,51.36251760460397,AE009441.1
+Pyrobaculum arsenaticum DSM 13514,Archaea,Crenarchaeota,2.121076,55.05087983646037,CP000660.1
+Pyrobaculum calidifontis JCM 11548,Archaea,Crenarchaeota,2.009313,57.15082717326768,CP000561.1
+Pyrobaculum islandicum DSM 4184,Archaea,Crenarchaeota,1.826402,49.599047745239,CP000504.1
+Pyrococcus abyssi GE5,Archaea,Euryarchaeota,1.768562,44.71140960848418,AL096836.1
+Pyrococcus furiosus DSM 3638,Archaea,Euryarchaeota,1.908256,40.76989670149079,AE009950.1
+Pyrococcus horikoshii OT3,Archaea,Euryarchaeota,1.738505,41.87897072484692,BA000001.2
+Sulfolobus acidocaldarius DSM 639,Archaea,Crenarchaeota,2.225959,36.70759434472962,CP000077.1
+Sulfolobus solfataricus P2,Archaea,Crenarchaeota,2.992245,35.787176517965605,AE006641.1
+Sulfolobus tokodaii str. 7,Archaea,Crenarchaeota,2.694756,32.78671612569005,BA000023.2
+Treponema denticola ATCC 35405,Bacteria,Spirochaetes,2.843201,37.87375567186421,AE017226.1
+Treponema pallidum subsp. pallidum SS14,Bacteria,Spirochaetes,1.139457,52.76030600540433,CP000805.1
+Treponema pallidum subsp. pallidum str. Nichols,Bacteria,Spirochaetes,1.139633,52.78830992082539,CP004010.2
+Ureaplasma parvum serovar 3 str. ATCC 27815,Bacteria,Tenericutes,0.751679,25.49652178656049,CP000942.1
+Ureaplasma parvum serovar 3 str. ATCC 700970,Bacteria,Tenericutes,0.751719,25.49968804832657,AF222894.1
+Ureaplasma urealyticum serovar 10 str. ATCC 33699,Bacteria,Tenericutes,0.874478,25.774233314045635,CP001184.1

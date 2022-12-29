@@ -1,0 +1,15 @@
+,1
+Classifier Name,Bacteria_to_Phylum
+Member Organisms,"['Borrelia afzelii PKo', 'Borrelia burgdorferi B31', 'Borrelia duttonii Ly', 'Borrelia garinii PBi', 'Borrelia hermsii DAH', 'Borrelia recurrentis A1', 'Borrelia turicatae 91E135', 'Candidatus Phytoplasma australiense', 'Candidatus Phytoplasma mali', 'Leptospira biflexa serovar Patoc strain Patoc 1 (Ames)', 'Leptospira biflexa serovar Patoc strain Patoc 1 (Paris)', 'Leptospira borgpetersenii serovar Hardjo-bovis JB197', 'Leptospira borgpetersenii serovar Hardjo-bovis L550', 'Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130', 'Leptospira interrogans serovar Lai str. 56601', 'Mycoplasma agalactiae PG2', 'Mycoplasma arthritidis 158L3-1', 'Mycoplasma capricolum subsp. capricolum ATCC 27343', 'Mycoplasma gallisepticum R', 'Mycoplasma genitalium G37', 'Mycoplasma hyopneumoniae 232', 'Mycoplasma hyopneumoniae 7448', 'Mycoplasma hyopneumoniae J', 'Mycoplasma mobile 163K', 'Mycoplasma mycoides subsp. mycoides SC str. PG1', 'Mycoplasma penetrans HF-2', 'Mycoplasma pneumoniae M129', 'Mycoplasma pulmonis UAB CTIP', 'Mycoplasma synoviae 53', 'Treponema denticola ATCC 35405', 'Treponema pallidum subsp. pallidum SS14', 'Treponema pallidum subsp. pallidum str. Nichols', 'Ureaplasma parvum serovar 3 str. ATCC 27815', 'Ureaplasma parvum serovar 3 str. ATCC 700970', 'Ureaplasma urealyticum serovar 10 str. ATCC 33699']"
+Classes to Learn,"['Spirochaetes', 'Tenericutes']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([11776.98224127,  2861.89058459, 11902.53666091,  2948.89114386]), 'std_fit_time': array([203.70005873,  53.25197567, 152.59631804,  55.43755193]), 'mean_score_time': array([279.75593656, 168.68181306, 228.79679883, 133.96803784]), 'std_score_time': array([10.23977077,  3.84442511, 35.89964493, 32.1827677 ]), 'param_C': masked_array(data=[100000, 100000, 1000000, 1000000],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[10, 100, 10, 100],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 100000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 100, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 1000000, 'gamma': 100, 'kernel': 'rbf'}], 'split0_test_score': array([0.95855817, 0.97017997, 0.95855817, 0.97017997]), 'split1_test_score': array([0.96016116, 0.96923409, 0.96016116, 0.96923409]), 'split2_test_score': array([0.96173494, 0.97128299, 0.96173494, 0.97128299]), 'split3_test_score': array([0.95911204, 0.96990361, 0.95911204, 0.96990361]), 'mean_test_score': array([0.95989158, 0.97015016, 0.95989158, 0.97015016]), 'std_test_score': array([0.00120999, 0.00073895, 0.00120999, 0.00073895]), 'rank_test_score': array([3, 1, 3, 1], dtype=int32)}"

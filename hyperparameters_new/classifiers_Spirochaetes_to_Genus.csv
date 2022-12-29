@@ -1,0 +1,27 @@
+,3
+Unnamed: 0,3
+Classifier Name,Spirochaetes_to_Genus
+Member Organisms,"['Borrelia afzelii PKo', 'Borrelia burgdorferi B31', 'Borrelia duttonii Ly', 'Borrelia garinii PBi', 'Borrelia hermsii DAH', 'Borrelia recurrentis A1', 'Borrelia turicatae 91E135', 'Leptospira biflexa serovar Patoc strain Patoc 1 (Ames)', 'Leptospira biflexa serovar Patoc strain Patoc 1 (Paris)', 'Leptospira borgpetersenii serovar Hardjo-bovis JB197', 'Leptospira borgpetersenii serovar Hardjo-bovis L550', 'Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130', 'Leptospira interrogans serovar Lai str. 56601', 'Treponema denticola ATCC 35405', 'Treponema pallidum subsp. pallidum SS14', 'Treponema pallidum subsp. pallidum str. Nichols']"
+Classes to Learn,"['Borrelia', 'Leptospira', 'Treponema']"
+Best Bayes Classifier,
+cv_results,"{'mean_fit_time': array([ 154.62817591,  378.94721496,  248.34792477,  453.01471293,
+       1005.09648961,  243.14455509]), 'std_fit_time': array([ 1.97473579,  7.8291228 ,  8.30837516,  8.1207142 , 26.55514493,
+       15.10388009]), 'mean_score_time': array([ 54.23844117,  48.04867131,  50.21725261,  50.82869947,
+       121.24379742,  42.06138569]), 'std_score_time': array([1.39958257, 2.27479654, 2.11868586, 1.7268919 , 2.97938322,
+       3.93167739]), 'param_C': masked_array(data=[10000, 10000, 10000, 100000, 100000, 100000],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_gamma': masked_array(data=[0.1, 1, 10, 0.1, 1, 10],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_kernel': masked_array(data=['rbf', 'rbf', 'rbf', 'rbf', 'rbf', 'rbf'],
+             mask=[False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'C': 10000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 10000, 'gamma': 10, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 0.1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 1, 'kernel': 'rbf'}, {'C': 100000, 'gamma': 10, 'kernel': 'rbf'}], 'split0_test_score': array([0.9674336 , 0.97520811, 0.98293806, 0.96867193, 0.9728025 ,
+       0.98291787]), 'split1_test_score': array([0.96314142, 0.97136465, 0.97980894, 0.96421234, 0.97363891,
+       0.9799629 ]), 'split2_test_score': array([0.96262549, 0.97089402, 0.9799664 , 0.96568033, 0.96968962,
+       0.98011844]), 'split3_test_score': array([0.9647302 , 0.97146516, 0.9791836 , 0.965226  , 0.95781363,
+       0.97913582]), 'mean_test_score': array([0.96448268, 0.97223298, 0.98047425, 0.96594765, 0.96848616,
+       0.98053376]), 'std_test_score': array([0.00187199, 0.00173117, 0.0014523 , 0.00166022, 0.00633508,
+       0.00142623]), 'rank_test_score': array([6, 3, 2, 5, 4, 1], dtype=int32)}"
+Chosen columns,
